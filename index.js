@@ -1,0 +1,1 @@
+console .assert(1 === 1, 'This will not throw an error');
